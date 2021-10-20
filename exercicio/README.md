@@ -1,1 +1,1 @@
-During the learning of a new language, its normal to practise it. And this is a simple training. 
+During the learning of a new programming language, its normal to practice...so this is a simple exercise. 
