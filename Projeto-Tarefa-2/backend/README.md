@@ -1,7 +1,2 @@
-# Awesome Project Build with TypeORM
+Projeto-Tarefa-2 like Projeto-Tarefa is an API, but here is to register the students of a school.
 
-Steps to run this project:
-
-1. Run `npm i` command
-2. Setup database settings inside `ormconfig.json` file
-3. Run `npm start` command
